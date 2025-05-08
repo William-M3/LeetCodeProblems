@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/bin/Debug/net8.0/Roman to Integer #13
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/bin/Debug/net8.0/Roman to Integer #13.deps.json
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/bin/Debug/net8.0/Roman to Integer #13.runtimeconfig.json
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/bin/Debug/net8.0/Roman to Integer #13.dll
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/bin/Debug/net8.0/Roman to Integer #13.pdb
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/Roman to Integer #13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/Roman to Integer #13.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/Roman to Integer #13.AssemblyInfo.cs
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/Roman to Integer #13.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/Roman to Integer #13.sourcelink.json
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/Roman to Integer #13.dll
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/refint/Roman to Integer #13.dll
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/Roman to Integer #13.pdb
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/Roman to Integer #13.genruntimeconfig.cache
+/Users/williammurphy/Code/LeetCodeProblems/Roman to Integer #13/obj/Debug/net8.0/ref/Roman to Integer #13.dll

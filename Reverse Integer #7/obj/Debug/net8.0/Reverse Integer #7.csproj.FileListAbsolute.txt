@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/bin/Debug/net8.0/Reverse Integer #7
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/bin/Debug/net8.0/Reverse Integer #7.deps.json
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/bin/Debug/net8.0/Reverse Integer #7.runtimeconfig.json
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/bin/Debug/net8.0/Reverse Integer #7.dll
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/bin/Debug/net8.0/Reverse Integer #7.pdb
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/Reverse Integer #7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/Reverse Integer #7.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/Reverse Integer #7.AssemblyInfo.cs
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/Reverse Integer #7.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/Reverse Integer #7.sourcelink.json
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/Reverse Integer #7.dll
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/refint/Reverse Integer #7.dll
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/Reverse Integer #7.pdb
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/Reverse Integer #7.genruntimeconfig.cache
+/Users/williammurphy/Code/LeetCodeProblems/Reverse Integer #7/obj/Debug/net8.0/ref/Reverse Integer #7.dll

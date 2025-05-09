@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/bin/Debug/net8.0/Valid Parentheses #20
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/bin/Debug/net8.0/Valid Parentheses #20.deps.json
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/bin/Debug/net8.0/Valid Parentheses #20.runtimeconfig.json
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/bin/Debug/net8.0/Valid Parentheses #20.dll
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/bin/Debug/net8.0/Valid Parentheses #20.pdb
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/Valid Parentheses #20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/Valid Parentheses #20.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/Valid Parentheses #20.AssemblyInfo.cs
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/Valid Parentheses #20.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/Valid Parentheses #20.sourcelink.json
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/Valid Parentheses #20.dll
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/refint/Valid Parentheses #20.dll
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/Valid Parentheses #20.pdb
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/Valid Parentheses #20.genruntimeconfig.cache
+/Users/williammurphy/Code/LeetCodeProblems/Valid Parentheses #20/obj/Debug/net8.0/ref/Valid Parentheses #20.dll
